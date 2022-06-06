@@ -4,6 +4,8 @@ Repositório criado para o Desafio de Projeto.
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
+[Repositorio](https://github.com/belmirojr/dio-desafio-github-primeiro-repositorio.git)
+
 Desafio do Curso: Criar o seu próprio projeto de estudos.
 abaixo tem o link com os Slides da apresentação sobre o desafio.
 
